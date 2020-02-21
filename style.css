@@ -2,7 +2,7 @@ body{ margin :0; font-family: 'Simonetta', cursive;}
 .top-banner{padding-bottom: 150px; background-image: url(Images/top-banner.png); 
 background-repeat: no-repeat;}
 
-section{   height: 500px;}
+section{   height: 600px;}
 .half-width{    
     width: 35%;
     float: left;
@@ -51,7 +51,7 @@ padding: 1px 7px;
 color: white;
 font-weight: bold;
 font-size: 20px;}
-.half-width .link-button:hover {background-color:green; color: red;}
+.half-width .link-button:hover {background-color: chartreuse; color: red;}
 
 .dream-area{ background-image: url(Images/dream-bg.png);
 background-repeat: no-repeat;
