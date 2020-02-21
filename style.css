@@ -4,11 +4,11 @@ background-repeat: no-repeat;}
 
 section{   height: 600px;}
 .half-width{    
-    width: 35%;
+    width: 40%;
     float: left;
     margin-left: 5%;
-    padding-left: 5%;
-    margin-bottom: 90px;
+    padding-left: 2%;
+    /* margin-bottom: 90px; */
 }
  
 #salam {font-size: 35px;
