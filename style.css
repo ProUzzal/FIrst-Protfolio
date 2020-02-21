@@ -2,7 +2,7 @@ body{ margin :0; font-family: 'Simonetta', cursive;}
 .top-banner{padding-bottom: 150px; background-image: url(Images/top-banner.png); 
 background-repeat: no-repeat;}
 
-section{   height: 600px;}
+section{   height: 550px;}
 .half-width{    
     width: 40%;
     float: left;
@@ -17,11 +17,12 @@ section{   height: 600px;}
     width: fit-content;
     border: 5px dotted red;
     border-radius: 14px;
-    margin: 5px 1px -20px; }
+    margin: 12px 1px -20px 0px;}
 
 .half-width h1 {    font-size: 51px;
     color: #696969;
     margin-left: 10px;
+    line-height: 40px;
 }
 .half-width h3{font-size: 32px;
     color: #FFAA2D;
@@ -62,11 +63,11 @@ margin-bottom: 30px;
 background-repeat: no-repeat;
 background-position: left;}
 
-.Experience-area h1{text-align: left;}
+
 #experience-head {
     text-align: left;
-    font-size: 50px;
-    margin-left: 90px;
+    font-size: 45px;
+     margin-left: 90px;
 margin-bottom: 5px;}
 .single-experience {
     margin: 24px 26px 12px 92px;
@@ -76,7 +77,7 @@ margin-bottom: 5px;}
     border-radius: 9px;
     background-color: white;
     padding: 35px 80px;
-    width: 530px;
+    width: 400px;
 }
 #full-stack {border-left:7px solid; border-image:linear-gradient(180deg, lightsalmon, tomato);
 border-image-slice:1;}
